@@ -62,9 +62,9 @@ This project performs Exploratory Data Analysis (EDA) on Netflix's movie and TV 
 
 ## 📌 Author
 
-👤 **Banothu Eshwar**  
-📚 B.Tech Mining Engineering, IIT Kharagpur  
-🔗 [LinkedIn](https://www.linkedin.com/in/banothueshwar) | [GitHub](https://github.com/BanothuEshwar)
+👤 **Kusuma Prajna**  
+📚 BS Mathamatics, IIT Kharagpur  
+
 
 ---
 
