@@ -63,7 +63,7 @@ This project performs Exploratory Data Analysis (EDA) on Netflix's movie and TV 
 ## 📌 Author
 
 👤 **Kusuma Prajna**  
-📚 BS Mathamatics, IIT Kharagpur  
+📚 BS Mathematics, IIT Kharagpur  
 
 
 ---
